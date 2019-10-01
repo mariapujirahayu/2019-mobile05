@@ -5,5 +5,9 @@
     <color name="colorAccent">#D81B60</color>
     <color name="red">#F19D9D</color>
     <color name="blue">#19BDD6</color>
-    <color name="text">#1D1B1C</color>
+    <color name="text">#070707</color>
+    <color name="text2">#F8F4F4</color>
+    <color name="pushups">#FDF6A1</color>
+    <color name="dips">#A1EC6E</color>
+    <color name="handstand">#D69BE2</color>
 </resources>
