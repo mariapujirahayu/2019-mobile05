@@ -16,7 +16,7 @@
             android:id="@+id/txt_pushups_fragment"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Pushups"
+            android:text="Handstand Fragment"
             android:textColor="@color/text"
             android:textSize="30sp"
             app:layout_constraintBottom_toBottomOf="parent"
